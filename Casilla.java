@@ -38,7 +38,7 @@ public class Casilla {
         }
         return tam;
     }
-    
+    */prueba
     /**
      * @fin toChar
      * @param valor entero a convertir
